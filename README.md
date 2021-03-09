@@ -23,6 +23,18 @@ Here are some ideas to get you started:
 + React Native
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngminss)](https://github.com/youngminss/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=cobsynthwavealt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=dracula)
+
+
 
 <div align=center>
 
