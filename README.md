@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Profile
+
+뭘 적 을 까 나
+
+### Interests
+
++ React JS
++ React Native
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngminss)](https://github.com/youngminss/github-readme-stats)
 
