@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-  
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngminss)](https://github.com/youngminss/github-readme-stats)
+
+<div align=center>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/youngminss?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/youngminss?style=social)
