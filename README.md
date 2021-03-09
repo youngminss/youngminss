@@ -17,15 +17,10 @@ Here are some ideas to get you started:
 
 
 
-<div align=center>
+
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungminss&count_bg=%237A81A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngminss)](https://github.com/youngminss/github-readme-stats)
-
-</div>
-
-<div align=center>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/youngminss?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/youngminss?style=social)
@@ -33,3 +28,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungminss&count_bg=%237A81A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
