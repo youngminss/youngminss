@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=center>
+
+![GitHub User's stars](https://img.shields.io/github/stars/youngminss?style=social)
+![GitHub followers](https://img.shields.io/github/followers/youngminss?style=social)
+![GitHub forks](https://img.shields.io/github/forks/youngminss/youngminss?style=social)
+
+</div>
+
