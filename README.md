@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Profile
-
-뭘 적 을 까 나
+### Hi there 👋
 
 ### Interests
 
