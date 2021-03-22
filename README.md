@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 + React Native
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&show_icons=true&theme=default )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngminss&layout=compact&theme=default )](https://github.com/youngminss)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&hide=stars&show_icons=true&theme=midnight-purple )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngminss&layout=compact&theme=midnight-purple )](https://github.com/youngminss)
 
 
 <!--
