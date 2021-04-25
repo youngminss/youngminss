@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 + React Native
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&hide=stars&show_icons=true&theme=midnight-purple )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&hide=stars&show_icons=true&theme=midnight-purple ) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngminss&layout=compact&theme=midnight-purple )](https://github.com/youngminss)
 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/youngminss?style=social)
-![GitHub followers](https://img.shields.io/github/followers/youngminss?style=social)
+![GitHub followers](https://img.shields.io/github/followers/youngminss?style=social) 
 ![GitHub forks](https://img.shields.io/github/forks/youngminss/youngminss?style=social)
 
 </div>
