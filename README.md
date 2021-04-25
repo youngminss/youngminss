@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### Interests
 
 + React JS
-+ React Native
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminss&hide=stars&show_icons=true&theme=midnight-purple ) <br />
