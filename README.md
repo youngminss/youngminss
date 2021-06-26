@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hi there 👋 
+
+<!--
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+-->
+<!--
+<p align = "center"><a href="https://www.buymeacoffee.com/youngminss"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+-->
 
 ### Interests
 
@@ -44,6 +51,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:youngminieo1005@gmail.com)
 
 </div>
+
+
 
 <!--
 <div align=center>
