@@ -2,7 +2,7 @@
 
 - 💪 I'm currently working on **MUINDO Service**
 - 💻 I'm currently using : **React**, **Javascript**
-- 🌱 I'm learning : **Deeper Javascript**, **Flutter**
+- 🌱 I'm learning : **Deeper Javascript**, ****
 - 👯 I'm looking to collaborate as a **front-end developer**
 - 🤔 I’m looking for help with **everyone to good developer**
 - 📫 How to reach me : **[Resume here](https://www.notion.so/a5318dc83cf7495cab136272b451ed6b)** / **[Click to send Email](https://youngminieo1005@gmail.com)** 
