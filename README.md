@@ -1,7 +1,7 @@
 # Hi, I'm youngmin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 💪 I'm currently working on **Creating Some Pages**
-- 💻 I'm currently using : **React**, **Javascript**
+- 🙋‍♂️ I'm in between jobs
+- 🎨 I'm currently using : **React**, **Javascript**, **Typescript**
 - 🌱 I'm learning : **Deeper Javascript**, **Typescript**
 - 👯 I'm looking to collaborate as a **front-end developer**
 - 🤔 I’m looking for help with **everyone to good developer**
