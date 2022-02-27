@@ -4,7 +4,7 @@
 - 🌱 I'm learning : **Deeper Javascript**, **Typescript**
 - 👯 I'm looking to collaborate as a **front-end developer**
 - 🤔 I’m looking for help with **everyone to good developer**
-- 📫 How to reach me : **[Resume here](https://www.notion.so/a5318dc83cf7495cab136272b451ed6b)** / **[Click to send Email](https://youngminieo1005@gmail.com)** 
+- 📫 How to reach me : **[Resume here](https://pine-dev.notion.site/Pine-Coding-NOTION-a5318dc83cf7495cab136272b451ed6b)** / **[Click to send Email](https://youngminieo1005@gmail.com)** 
 - ⚡️ Fun Fact : 💻 & 🎼 & ☕ [By me a coffee power :)](https://www.buymeacoffee.com/youngminss)  
 
 
