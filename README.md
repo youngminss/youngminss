@@ -33,7 +33,7 @@
 
 #### [YAPP 20th / 21th](https://www.yapp.co.kr/)
 
-- `2022.04 ~ 2022.08` / `2022.11 ~ ing`
+- `2022.04 ~ 2022.08` / `2022.11 ~ 2023.05`
 - Front-End Developer
 
 #### [SW Maestro 13th](https://www.swmaestro.org/sw/main/main.do)
