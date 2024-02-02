@@ -4,8 +4,8 @@
 > 🌟 Let the brighter shine the brighter.
 
 0 to 1 👈 I`m here.
-1 to 10 
-10 to +@ 
+1 to 100
+100 to +@ 
 ```
 
 <a href="https://www.linkedin.com/in/%EC%98%81%EB%AF%BC-%EC%9C%84-114507214/?original_referer=" target="_blank">
