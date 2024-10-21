@@ -16,7 +16,7 @@
 <br />
 
 
-## 💼 Career
+## 💼 Work
 
 ####  Nosearch
 
@@ -29,11 +29,11 @@
 
 <br />
 
-## 🎓 Experiences
+## 🎓 Experience
 
-#### [YAPP 20th / 21th](https://www.yapp.co.kr/)
+#### [YAPP 20th(member) / 21th(member) / 24th(officer)](https://www.yapp.co.kr/)
 
-- `2022.04 ~ 2022.08` / `2022.11 ~ 2023.05`
+- `2022.04 ~ 2022.08` / `2022.11 ~ 2023.05` / `2024.04 ~ 2024.09`
 - Front-End Developer
 
 #### [SW Maestro 13th](https://www.swmaestro.org/sw/main/main.do)
