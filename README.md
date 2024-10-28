@@ -3,8 +3,9 @@
 ```text
 > 🌟 Let the brighter shine the brighter.
 
-0 to 1 👈 I`m here.
-1 to 100
+0 to 1 
+1 to 10 👈 I`m here.
+10 to 100
 100 to +@ 
 ```
 
