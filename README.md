@@ -22,7 +22,7 @@
 ####  Nosearch
 
 - [Web](https://nosearch.com/) / [App - iOS](https://apps.apple.com/kr/app/%EB%85%B8%EC%8D%A8%EC%B9%98-%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-%EC%B6%94%EC%B2%9C-%EB%B9%84%EA%B5%90-%EA%B5%AC%EB%A7%A4%EA%B8%B0%EC%A4%80%EA%B9%8C%EC%A7%80/id1549661383) / [App - Android](https://play.google.com/store/apps/details?id=com.nosearch.app)
-- `2023.01 ~ ing`
+- `2023.01 ~ 2024.12`
 - Front-End Developer
 
 
